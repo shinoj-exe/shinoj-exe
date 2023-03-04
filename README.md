@@ -3,7 +3,7 @@
 ## I'm Shinoj Muraleedharan
 
 - 👨‍💻 I’m doing B.Tech from College of Engineering, Trivandrum
-- 🔭 I’m a Front End Web developer
+- 🔭 I’m a Full Stack Web developer
 - 🌱 I’m currently learning Web3.0-Blockchain
 
 ## Connect with me on
