@@ -2,7 +2,7 @@
 
 ## I'm Shinoj Muraleedharan
 
-- 👨‍💻 I’m doing B.Tech from College of Engineering, Trivandrum
+- 👨‍💻 I’m a Software Engineer at Visteon
 - 🔭 I’m a Full Stack Web developer
 - 🌱 I’m currently learning Web3.0-Blockchain
 
